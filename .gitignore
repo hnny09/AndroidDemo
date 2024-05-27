@@ -113,9 +113,9 @@ obj/
 .idea/dataSources.ids
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
-.idea/uiDesigner.xml
-.idea/gradle.xml
-.idea/misc.xml
+Mini/.idea/uiDesigner.xml
+Mini/.idea/gradle.xml
+Mini/.idea/misc.xml
 
 # OS-specific files
 .DS_Store
